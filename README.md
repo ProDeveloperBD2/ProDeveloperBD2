@@ -14,7 +14,7 @@
         <img  width="300" src="https://i.ibb.co/Rg45ZrP/dribbble.png" />
         <img  width="300" src="https://i.ibb.co/rQZfq6d/twitter.png" />
     </div>
-    <div class="flex">
+    <div display="flex" gap="10px">
         <img  width="300" src="https://i.ibb.co/YPFHN6S/instagram.png" />
         <img  width="300" src="https://i.ibb.co/g6J3xz4/linkedin.png" />
         <img  width="300" src="https://i.ibb.co/LgtL93g/youtube.png" />
