@@ -10,7 +10,7 @@
 <body>
     <img src="https://i.ibb.co/qjn1rPz/asratul-hasan-nahid.png" />
     <div align="center">
-    <a href="https://www.facebook.com/ProDeveloperBD2" target="blank">   <img  width="280" src="https://i.ibb.co/WV83jG9/facebook.png" /></a>
+    <a href="https://www.facebook.com/ProDeveloperBD2" target="_blank">   <img  width="280" src="https://i.ibb.co/WV83jG9/facebook.png" /></a>
         <img  width="280" src="https://i.ibb.co/Rg45ZrP/dribbble.png" />
         <img  width="280" src="https://i.ibb.co/rQZfq6d/twitter.png" />
     </div>
