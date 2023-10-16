@@ -10,7 +10,7 @@
 <body>
     <img src="https://i.ibb.co/qjn1rPz/asratul-hasan-nahid.png" />
     <div display="flex" gap="10px" align="center">
-        <img  width="300" src="https://i.ibb.co/WV83jG9/facebook.png" />
+        <img  width="300" margin="10px" src="https://i.ibb.co/WV83jG9/facebook.png" />
         <img  width="300" src="https://i.ibb.co/Rg45ZrP/dribbble.png" />
         <img  width="300" src="https://i.ibb.co/rQZfq6d/twitter.png" />
     </div>
