@@ -10,7 +10,7 @@
 <body>
     <img class="headImage" src="https://i.ibb.co/qjn1rPz/asratul-hasan-nahid.png" />
     <div class="flex">
-        <img class="img" src="https://i.ibb.co/WV83jG9/facebook.png" />
+        <img  width="40" src="https://i.ibb.co/WV83jG9/facebook.png" />
         <img class="img" src="https://i.ibb.co/Rg45ZrP/dribbble.png" />
         <img class="img" src="https://i.ibb.co/rQZfq6d/twitter.png" />
     </div>
