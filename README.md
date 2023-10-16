@@ -15,7 +15,6 @@
         <img  width="230" src="https://i.ibb.co/rQZfq6d/twitter.png" />
     </div>
     <br/>
-    <br/>
     <div align="center">
         <img  width="230" src="https://i.ibb.co/YPFHN6S/instagram.png" />
         <img  width="230" src="https://i.ibb.co/g6J3xz4/linkedin.png" />
