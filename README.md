@@ -4,27 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            margin: 0;
-        }
-
-        .headImage {
-            width: 100%;
-            margin-bottom: 20px;
-        }
-
-        .flex {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 10px;
-            justify-content: center;
-        }
-
-        .img {
-            width: 300px;
-        }
-    </style>
+   
 </head>
 
 <body>
