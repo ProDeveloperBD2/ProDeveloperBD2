@@ -18,7 +18,7 @@
     <div align="center">
             <a href="https://www.instagram.com/pro_developer25" target="_blank">      <img  width="230" src="https://i.ibb.co/6DRZXWm/Linstagram.png" /> </a>
             <a href="https://www.linkedin.com/in/prodeveloper25" target="_blank">       <img  width="230" src="https://i.ibb.co/fF1SZn6/Llinkedin.png" /> </a>
-            <a href="https://www.youtube.com/@techlearnerTL" target="_blank">            <img  width="230" src="https://i.ibb.co/J5Q3Dfg/Lyoutube.png" /> </a>
+            <a href="https://www.youtube.com/@techlearnerTL" target="_blank">           <img  width="230" src="https://i.ibb.co/J5Q3Dfg/Lyoutube.png" /> </a>
     </div>
     
 </body>
